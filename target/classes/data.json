@@ -1,0 +1,9 @@
+{
+  "firstName": "Khanh",
+  "lastName": "Tran",
+  "phone": "0924448888",
+  "address": [
+    {"streetName":  "Thai Ha", "city":  "Ha Noi"},
+    {"streetName":  "Duy Tan", "city":  "Ha Noi"}
+  ]
+}

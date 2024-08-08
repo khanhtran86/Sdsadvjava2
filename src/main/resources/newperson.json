@@ -1,0 +1,11 @@
+{
+  "firstName": "Alexander",
+  "lastName": "Dai De",
+  "phone": "091111111",
+  "address": [
+    {
+      "streetName": "Duy Tan",
+      "city": "Ha noi"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<Person>
+<Person>
+    <firstName>I'm from XML</firstName>
+    <lastName>Java</lastName>
+    <phone>099999999</phone>
+    <address>
+        <address>
+            <streetName>Duy tan</streetName>
+            <city>Ha noi</city>
+        </address>
+    </address>
+</Person>
+    <Person>
+        <firstName>I'm from XML 2</firstName>
+        <lastName>Java 2</lastName>
+        <phone>099999999</phone>
+        <address>
+            <address>
+                <streetName>Duy tan</streetName>
+                <city>Ha noi</city>
+            </address>
+        </address>
+    </Person>
+</Person>
